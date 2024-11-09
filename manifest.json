@@ -1,10 +1,10 @@
 {
 "name": "Acaidimy",
 "short_name": "Acaidimy",
-"start_url": "/index.html",
+"start_url": "/",
 "display": "standalone",
 "description": "A description for your application",
-"lang": " The default language of your application",
+"lang": "en",
 "dir": "auto",
 "theme_color": "#0c58a0",
 "background_color": "#ffffff",
@@ -31,18 +31,7 @@
         "description": "A screenshot of the home page"
     }
 ],
-"related_applications": [
-    {
-        "platform":"windows",
-        "url": " The URL to your app in that app store"
-    }
-],
+"related_applications": [],
 "prefer_related_applications": false,
-"shortcuts": [
-    {
-        "name":"The name you would like to be displayed for your shortcut",
-        "url":"The url you would like to open when the user chooses this shortcut. This must be a URL local to your PWA. For example: If my start_url is /, this URL must be something like /shortcut",
-        "description":"A description of the functionality of this shortcut"
-    }
-]
+"shortcuts": []
 }
